@@ -1,1 +1,3 @@
 # LAB-3_MVC_CIS-5
+
+What I did for the code was I first made the array at least 10 elements big to get a sample of the students scores. What I did next was to take the average score of the students grades and then to find the total score out of the Biggest score if they all got a 100. Next was to find how many students passed, I grabbed this sample was {85, 72, 64, 91, 58, 77, 99, 70, 83, 66}; and out of them, only 7 passed. Finally for the lowest and highest score was that I took the first element and then compared it to the rest of the elements. Then that got stored onto a variable which holds the lowest and highest values. 
